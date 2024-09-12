@@ -1,0 +1,28 @@
+---
+title: "Assignment 1 - A Sample Markdown Document"
+author: "Liz Waddington"
+date: "2024-09-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 1. Introduction
+
+This is my intro for my analysis.
+
+## 1.1 This is a subheading
+
+This is my intro for my analysis. This is my intro for my analysis. This is my intro for my analysis.
+
+### 1.1.1 What is Rstudio?
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
